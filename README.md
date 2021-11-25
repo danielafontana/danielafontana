@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome!
-
-
-
 ## I'm Daniela A. Fontana!
 
  
@@ -44,8 +40,4 @@ Here are some ideas to get you started:
 
 ![danielafontana GitHub stats](https://github-readme-stats.vercel.app/api?username=danielafontana&show_icons=true&theme=radical)
 
-- Thanks for visiting.
-
 :cat:
-
-----------------------------------------------------------------------------------

@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Welcome!
 
- 
 
-## I'm Daniela Andreetta Fontana!
+
+## I'm Daniela A. Fontana!
 
  
 
@@ -42,12 +42,7 @@ Here are some ideas to get you started:
 
 # Languages and Tools:
 
-✨This is my new public repository!!✨
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielafontana&layout=compact&show_icons=true&theme=radical)](https://github.com/danielafontana/github-readme-stats)
-
 ![danielafontana GitHub stats](https://github-readme-stats.vercel.app/api?username=danielafontana&show_icons=true&theme=radical)
-
 
 - Thanks for visiting.
 

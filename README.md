@@ -14,3 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome!
+
+ 
+
+## I'm Daniela Andreetta Fontana!
+
+ 
+
+:pill: :microscope: I am a pharmacist, specialist in laboratory diagnosis, who loves technology!
+
+:computer: :books:  Now I'm studying System Analysis and Development and doing a front-end focused internship.
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning javascript, python, java, html, css.
+
+:outbox_tray: 2022 Goals: find a job! :sweat_smile:
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielafontana)](https://github.com/danielafontana) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniela-a-fontana/)](https://www.linkedin.com/in/daniela-a-fontana/)
+
+# Languages and Tools:
+
+✨This is my new public repository!!✨
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielafontana&layout=compact&show_icons=true&theme=radical)](https://github.com/danielafontana/github-readme-stats)
+
+![danielafontana GitHub stats](https://github-readme-stats.vercel.app/api?username=danielafontana&show_icons=true&theme=radical)
+
+
+- Thanks for visiting.
+
+:cat:
+
+----------------------------------------------------------------------------------

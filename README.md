@@ -23,11 +23,8 @@ Here are some ideas to get you started:
 
 :computer: :books:  Now I'm studying System Analysis and Development and doing a front-end focused internship.
 
-:house_with_garden: I’m from Brazil.
-
 :books: I’m currently learning javascript, python, java, html, css.
 
-:outbox_tray: 2022 Goals: find a job! :sweat_smile:
 
  
 

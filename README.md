@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 
 :pill: :microscope: I am a pharmacist, specialist in laboratory diagnosis, who loves technology!
 
-:computer: :books:  Now I'm studying System Analysis and Development and doing a front-end focused internship.
-
-:books: I’m currently learning javascript, python, java, html, css.
-
-
  
 
 ## About me
